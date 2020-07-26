@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run cartoon_app.py
+web: sh setup.sh && streamlit run fpl_exp.py

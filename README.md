@@ -1,5 +1,7 @@
 # Fantasy Premier League Data Explorer
 
+**You can access the deployed web app here: https://fpl-data-explorer.herokuapp.com/**
+
 ## Purpose
 This app performs webscraping of Fantasy Premier League (FPL) player stats data to make it easier for you to get the necessary data to perform EDA of FPL players or clubs.
 
